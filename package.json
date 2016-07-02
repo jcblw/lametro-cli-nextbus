@@ -12,7 +12,6 @@
   "author": "Jacob Lowe",
   "license": "ISC",
   "dependencies": {
-    "geolocate": "0.0.1",
     "got": "^6.3.0"
   }
 }
