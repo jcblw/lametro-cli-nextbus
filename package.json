@@ -1,0 +1,18 @@
+{
+  "name": "sample-cli-tool",
+  "version": "1.0.0",
+  "description": "just a sample of a cli tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "next-bus-arrival": "./index.js"
+  },
+  "author": "Jacob Lowe",
+  "license": "ISC",
+  "dependencies": {
+    "geolocate": "0.0.1",
+    "got": "^6.3.0"
+  }
+}
